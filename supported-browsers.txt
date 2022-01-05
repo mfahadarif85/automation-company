@@ -1,2 +1,4 @@
 chrome
 firefox
+safari
+opera
